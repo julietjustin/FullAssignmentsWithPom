@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17379" started-at="2022-12-15T10:36:04Z" finished-at="2022-12-15T10:36:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17379" started-at="2022-12-15T10:36:04Z" finished-at="2022-12-15T10:36:21Z">
+      <class name="com.obsqura.assignmentwithpom.TablePageTest">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.obsqura.assignmentwithpom.TablePageTest@1ed4004b]" name="initializeBrowser" is-config="true" duration-ms="12939" started-at="2022-12-15T16:06:04Z" finished-at="2022-12-15T16:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="verifyGetRow()[pri:0, instance:com.obsqura.assignmentwithpom.TablePageTest@1ed4004b]" name="verifyGetRow" duration-ms="3406" started-at="2022-12-15T16:06:17Z" finished-at="2022-12-15T16:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetRow -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.obsqura.assignmentwithpom.TablePageTest@1ed4004b]" name="quitBrowser" is-config="true" duration-ms="999" started-at="2022-12-15T16:06:20Z" finished-at="2022-12-15T16:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.obsqura.assignmentwithpom.TablePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
